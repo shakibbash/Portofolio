@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Forum X",
+    "description": "An interactive discussion forum for communities with responsive design.",
+    "tags": ["React", "Node.js", "Express.js", "MongoDB", "Firebase", "Tailwind CSS"],
+    "image": "https://i.postimg.cc/J02w8RVj/screenshot-1760694326229.png",
+    "images": ["https://i.postimg.cc/J02w8RVj/screenshot-1760694326229.png","https://i.postimg.cc/kGprC73N/screenshot-1760694345983.png","https://i.postimg.cc/Gt206HNM/screenshot-1760694415735.png"],
+      
+    "liveLink": "https://forum-x-auth.web.app/",
+    "clientCode": "https://github.com/shakibbash/b11a12-client-side-shakibbash",
+    "serverCode": "https://github.com/shakibbash/b11a12-server-side-shakibbash",
+    "featured": true,
+    "keyFeatures": [
+      "Thread creation",
+      "Commenting",
+      "Real-time updates",
+      "Moderation tools"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Rise and Serve",
+    "description": "A platform for volunteers to connect with NGOs and manage community services.",
+    "tags": ["React", "Node.js", "Express.js", "MongoDB", "Firebase", "Tailwind CSS"],
+    "image": "/images/riseandserve.png",
+    "images": ["https://i.postimg.cc/GtVyysnG/screenshot-1760695079892.png","https://i.postimg.cc/mkJHHFWH/screenshot-1760695114542.png","https://i.postimg.cc/C5Xqqfp8/screenshot-1760695155899.png"],
+    "liveLink": "https://riseandserve-f443d.web.app/",
+    "clientCode": "https://github.com/shakibbash/b11a11-client-side-shakibbash",
+    "serverCode": "https://github.com/shakibbash/b11a1-server-side-shakibbash",
+    "featured": true,
+    "keyFeatures": [
+      "Event registration",
+      "Real-time notifications",
+      "Profile management"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "HobbyVerse",
+    "description": "Project connecting hobby enthusiasts and local groups with CRUD operations and responsive UI.",
+    "tags": ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Firebase"],
+    "image": "/images/hobbyverse.png",
+    "images": ["https://i.postimg.cc/yxmJr6Jy/screenshot-1760695277222.png","https://i.postimg.cc/Zn89DY9F/screenshot-1760695335084.png","https://i.postimg.cc/x8vkFjkG/screenshot-1760695380048.png"],
+    "liveLink": "https://hobbyverse-auth.web.app/",
+    "clientCode": "https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-shakibbash",
+    "serverCode": "https://github.com/Programming-Hero-Web-Course4/b11a10-server-side-shakibbash",
+    "featured": true,
+    "keyFeatures": [
+      "Group creation",
+      "Membership management",
+      "Testimonials",
+      "Dark/Light mode"
+    ]
+  }
+]
